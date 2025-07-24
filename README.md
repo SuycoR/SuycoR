@@ -28,14 +28,13 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
-- :trophy: 2x `ACPC` Finalist.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- :school: Soy estudiante de `Ingeniería de Software` en la [Universidad Nacional Mayor de San Marcos (UNMSM)](https://unmsm.edu.pe/), apasionado por la `Inteligencia Artificial`, la `ciencia de datos` y la `automatización`.
+- 💻 Me interesa desarrollar soluciones prácticas combinando `AI`, `bases de datos` y herramientas en la nube como `Azure`.
+- 🚀 He trabajado en proyectos con `ETL pipelines`, `Power BI`, despliegue de modelos en `Azure ML` y automatización con `n8n`.
+- 🧠 Actualmente estoy aprendiendo sobre `sistemas RAGs` con `LangChain` .
+- 📊 Me gusta explorar el uso de `datos` para crear visualizaciones y responder preguntas del negocio.
+- 🔍 Siempre estoy `aprendiendo nuevas tecnologías`, especialmente relacionadas con AI, ML y análisis de datos.
+- 💼 Abierto a oportunidades como `Practicante Pre Profesional` en roles relacionados a `Machine Learning`, `Data Engineering` o `AI Engineering`.
 <br>
 
 
